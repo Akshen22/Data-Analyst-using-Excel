@@ -1,0 +1,15 @@
+Table in Excel: 
+
+Excel's Table command to convert a list of data into a named Excel Table. These tables have useful features, like sorting and filtering, to help organize and view data. 
+
+1) To convert any data into excel table:- 
+Step 1: Hit Insert and then hit table. 
+Step 2: Check or selected cells of the table and hit ok 
+
+• Shortcut: Control + T 
+
+2) Go to Table design tab:
+i) Give the table name
+ii) Default style of your table
+iii) Explore all the options, example: check - uncheck the Filter Button
+iv) do: sum, later short & filter
