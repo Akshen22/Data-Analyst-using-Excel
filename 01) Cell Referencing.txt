@@ -10,5 +10,5 @@ Types:
 by default it's: Relative Cell referencing!
 
 Excel sheet link: 
-[Cell Referencing.xlsx] (https://docs.google.com/spreadsheets/d/1lJrB0pyrzGq_2v840CbVRvbHQKtSCrR_/edit?usp=drive_link&ouid=103347012912838956156&rtpof=true&sd=true)
+[Cell Referencing.xlsx](https://docs.google.com/spreadsheets/d/1lJrB0pyrzGq_2v840CbVRvbHQKtSCrR_/edit?usp=drive_link&ouid=103347012912838956156&rtpof=true&sd=true)
 Here is the link to the resource: [Google Drive Resource](https://drive.google.com/file/d/your-file-id/view)
