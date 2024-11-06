@@ -1,0 +1,10 @@
+Cell Referencing:
+
+$B1 = Column, C$10 = Row, $D$5 = Row & Column
+
+Types:
+1) Relative Cell: =$B1+$C1
+2) Absolute Cell: =$A$1*$B1
+3) Mixed Cell: =$C10*(1-L$5)
+
+by default it's: Relative Cell referencing!
