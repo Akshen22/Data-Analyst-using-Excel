@@ -1,0 +1,71 @@
+Basic functions in Excel:
+
+1) Commonly used: +, -, *, /
+
+Different methods to perform operations:
+i) Add:
+a) 35+42
+b) =A7+A8
+c) =A7+A8+100
+d) =A1+sum(A2:A9)
+e) Drag corner to generalize formula
+f) Make table and define formula
+
+2) Power & Square Root function: 
+
+Method 1 -
+By using Power symbol (^) Example: A1^2  
+
+Method 2 - 
+Using the Power Symbol. Example: A1^(1/2) 
+
+Method 3 - 
+Using Function. Example: SQRT(A1) - 
+This won't work for negative numbers
+
+3) Percentage function: 
+
+Method 1 -  
+By using percentage symbol (%) Example:=A1*50% 
+
+Method 2 - 
+By using percentage symbol (%) Example:=A1*(1+B1) 
+Here A1=50, B1=50%, you will get value as (A1+50% of A1)
+
+4) Name range in formulas: 
+
+i) Named Constant - 
+a) Select Range of Data 
+b) On the Formulas tab, click Define Name. Give a name Say 'Age'.
+c) For using this range of data use 'Age' name Example: Sum(Age) 
+
+ii) Named Range 
+a) On the Formulas tab, click Define Name. 
+b) Enter Name, Enter value to save constant
+
+
+Basic Functions Excel sheet:
+https://docs.google.com/spreadsheets/d/1X__hnydY47nj6DVWcR7LLg2rIfBjeyae/edit?usp=drive_link&ouid=103347012912838956156&rtpof=true&sd=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
