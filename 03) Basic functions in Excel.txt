@@ -44,7 +44,7 @@ a) On the Formulas tab, click Define Name.
 b) Enter Name, Enter value to save constant
 
 
-Basic Functions Excel sheet:
+Basic Functions excel sheet link:
 https://docs.google.com/spreadsheets/d/1X__hnydY47nj6DVWcR7LLg2rIfBjeyae/edit?usp=drive_link&ouid=103347012912838956156&rtpof=true&sd=true
 
 
