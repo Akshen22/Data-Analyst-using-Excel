@@ -1,4 +1,4 @@
-Table in Excel: 
+A) Table in Excel: 
 
 Excel's Table command to convert a list of data into a named Excel Table. These tables have useful features, like sorting and filtering, to help organize and view data. 
 
@@ -13,3 +13,20 @@ i) Give the table name
 ii) Default style of your table
 iii) Explore all the options, example: check - uncheck the Filter Button
 iv) do: sum, later short & filter
+
+B) Borders in Excel: 
+
+• Your highlighted cell will get border. 
+
+• Predefined cell border 
+• Remove a cell border 
+• Create a custom cell border 
+
+• Shortcut method to assign default border to cell: (Control + Shift + & )
+
+Excel Sheets:
+a) Raw data link:
+https://drive.google.com/file/d/1nDwSABWYTq6s-Xh6oN5XTvZle-w7S_6X/view?usp=drive_link
+
+b) Final data link:
+https://drive.google.com/file/d/1FoKFjIV0azRfxn1jEWNws08BD4Ud3xxY/view?usp=drive_link
