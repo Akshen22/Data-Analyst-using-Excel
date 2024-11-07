@@ -1,0 +1,32 @@
+Sorting:
+
+a) By Colour: 
+- Select any cell of the coloured column. 
+- Go to Data Tab and hit Sort button. 
+- Select column, in Sort on option select Cell Colour / Font Colour 
+ 
+b) By values:
+- Ascending or descending order by clicking respective buttons 
+- Custom sort can also be done based on column priority
+
+
+Sorting excel sheet link:
+https://docs.google.com/spreadsheets/d/1pQfhh9xq7w4H6FJeEursGKDXHkXbCUbH/edit?usp=drive_link&ouid=103347012912838956156&rtpof=true&sd=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
